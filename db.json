@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Mini Nash Face cotton T-shirt",
+        "brandName": "ACNE STUDIOS KIDS",
+        "price": 45,
+        "size": [
+            "Y 3/ 98",
+            "Y 4/ 104",
+            "Y 6/ 116",
+            "Y 8/ 128"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241_d4.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241_d3.jpg"
+        },
+        "itemNo": "P00686241",
+        "type": "T-Shirt",
+        "color": "Blue",
+        "quant": 1
+    }
+]
