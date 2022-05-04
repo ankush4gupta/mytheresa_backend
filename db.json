@@ -4,10 +4,11 @@
         "brandName": "ACNE STUDIOS KIDS",
         "price": 45,
         "size": [
-            "Y 3/ 98",
-            "Y 4/ 104",
-            "Y 6/ 116",
-            "Y 8/ 128"
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
         ],
         "images": {
             "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241.jpg",
@@ -19,5 +20,30 @@
         "type": "T-Shirt",
         "color": "Blue",
         "quant": 1
+      
+    },
+    {
+        "name": "",
+        "brandName": "",
+        "price": ,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "",
+            "img2": "",
+            "img3": "",
+            "img4": ""
+        },
+        "itemNo": "",
+        "type": "",
+        "color": "",
+        "quant": 1
+    },{
+
     }
 ]

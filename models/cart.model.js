@@ -3,6 +3,8 @@
 const mongoose = require("mongoose");
 const CartSchema = mongoose.Schema({
     userId: { type: mongoose.Schema.Types.ObjectId, ref: "user" },
-    productId: { type: mongoose.Schema.Types.ObjectId, ref: "men" }
+    menId: { type: mongoose.Schema.Types.ObjectId, ref: "men" },
+    womenId: { type: mongoose.Schema.Types.ObjectId, ref: "women" }
+
 })
 module.exports = mongoose.model("cart", CartSchema);
