@@ -1,0 +1,489 @@
+[
+    {
+        "name": "Cotton crewneck T-shirt",
+        "brandName": "ETRO",
+        "price": 400,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/65/P00661773.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/65/P00661773_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/65/P00661773_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/65/P00661773_d1.jpg"
+        },
+        "itemNo": "P00661773",
+        "type": [
+            "T-Shirt",
+            "Western",
+            "Top Wear"
+        ],
+        "color": "White",
+        "quant": 1
+    },
+    {
+        "name": "Mini Nash Face cotton T-shirt",
+        "brandName": "ALEXANDER MCQUEEN",
+        "price": 45,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241_d4.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/92/P00686241_d3.jpg"
+        },
+        "itemNo": "P00686241",
+        "type": [
+            "T-Shirt",
+            "Western",
+            "Top Wear"
+        ],
+        "color": "Blue",
+        "quant": 1
+    },
+    {
+        "name": "Linen shirt",
+        "brandName": "GUCCI",
+        "price": 304,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fa/P00675880.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fa/P00675880_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fa/P00675880_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fa/P00675880_d1.jpg"
+        },
+        "itemNo": "P00675880",
+        "type": [
+            "T-Shirt",
+            "Western",
+            "Top Wear"
+        ],
+        "color": "Yellow",
+        "quant": 1
+    },
+    {
+        "name": "Cotton Harness shirt",
+        "brandName": "ALEXANDER MCQUEEN",
+        "price": 690,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/98/P00687754.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/98/P00687754_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/98/P00687754_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/98/P00687754_d1.jpg"
+        },
+        "itemNo": "P00687754",
+        "type": [
+            "Shirt",
+            "Western",
+            "Top Wear"
+        ],
+        "color": "Black",
+        "quant": 1
+    },
+    {
+        "name": "Fluid velour shirt",
+        "brandName": "GANNI",
+        "price": 840,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/d2/P00611727.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/d2/P00611727_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/d2/P00611727_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/d2/P00611727_d1.jpg"
+        },
+        "itemNo": "P00611727",
+        "type": [
+            "Shirt",
+            "Western",
+            "Top Wear"
+        ],
+        "color": "Brown",
+        "quant": 1
+    },
+    {
+        "name": "Mid-rise slim jeans",
+        "brandName": "ALEXANDER MCQUEEN",
+        "price":590 ,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/2f/P00687830.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/2f/P00687830_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/2f/P00687830_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/2f/P00687830_d1.jpg"
+        },
+        "itemNo": "P00687830",
+        "type": [
+            "Jeans",
+            "Western",
+            "Bottom Wear"
+        ],
+        "color": "Blue",
+        "quant": 1
+    },
+    {
+        "name": "Straight-leg cotton jeans",
+        "brandName": "KHAITE",
+        "price": 420,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/05/P00616040.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/05/P00616040_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/05/P00616040_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/05/P00616040_d1.jpg"
+        },
+        "itemNo": "P00616040",
+        "type": [
+            "Jeans",
+            "Western",
+            "Bottom Wear"
+        ],
+        "color": "Black",
+        "quant": 1
+    },
+    {
+        "name": "Straight-leg denim jeans",
+        "brandName": "ETRO",
+        "price": 490,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/91/P00457781.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/91/P00457781_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/91/P00457781_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/91/P00457781_d1.jpg"
+        },
+        "itemNo": "P00457781",
+        "type": [
+            "Jeans",
+            "Western",
+            "Bottom Wear"
+        ],
+        "color": "Brown",
+        "quant": 1
+    },
+    {
+        "name": "Jacquard cotton jersey shorts",
+        "brandName": "GUCCI",
+        "price": 750,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ba/P00674237.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ba/P00674237_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ba/P00674237_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/ba/P00674237_d1.jpg"
+        },
+        "itemNo": "P00674237",
+        "type": [
+            "Shorts",
+            "Western",
+            "Bottom Wear"
+        ],
+        "color": "White",
+        "quant": 1
+    },
+    {
+        "name": "Drawstring shorts",
+        "brandName": "NIKE",
+        "price": 460,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a0/P00619431.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a0/P00619431_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a0/P00619431_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a0/P00619431_d1.jpg"
+        },
+        "itemNo": "P00619431",
+        "type": [
+            "T-Shirt",
+            "Western",
+            "Top Wear"
+        ],
+        "color": "Yellow",
+        "quant": 1
+    },
+    {
+        "name": "Seal logo penny loafers",
+        "brandName": "ALEXANDER MCQUEEN",
+        "price": 790,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/0c/P00687719.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/0c/P00687719_b2.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/0c/P00687719_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/0c/P00687719_d2.jpg"
+        },
+        "itemNo": "P00687719",
+        "type": [
+            "Foot Wear",
+            "Shoes"
+        
+        ],
+        "color": "Black",
+        "quant": 1
+    }, 
+    {
+        "name": "Balskee suede and leather wedge",
+        "brandName": "ISABEL MARANT",
+        "price": 495,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a1/P00629162.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a1/P00629162_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a1/P00629162_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/a1/P00629162_d2.jpg"
+        },
+        "itemNo": "P006291001",
+        "type": [
+            "Shoes",
+            "Foot Wear"
+        ],
+        "color": "Black",
+        "quant": 1
+    },{
+        "name": "Brooklee suede sneakers",
+        "brandName": "ISABEL MARANT",
+        "price": 390,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00629178.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00629178_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00629178_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/10/P00629178_d2.jpg"
+        },
+        "itemNo": "P006291002",
+        "type": [
+            "Shoes",
+            "Foot Wear"
+        ],
+        "color": "Brown",
+        "quant": 1
+    },
+    {
+        "name": "Mold Closed rubber sandals",
+        "brandName": "ADIDAS",
+        "price": 395,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/58/P00689620.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/58/P00689620_b2.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/58/P00689620_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/58/P00689620_d2.jpg"
+        },
+        "itemNo": "P00689620",
+        "type": [
+            "Sandal",
+            "Western",
+            "Foot Wear"
+        ],
+        "color": "White",
+        "quant": 1
+    },
+    {
+        "name": "Pool logo rubber slides",
+        "brandName": "GUCCI",
+        "price": 285,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/f7/P00444559.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/f7/P00444559_b2.jpg ",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/f7/P00444559_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/f7/P00444559_d2.jpg"
+        },
+        "itemNo": "P00444559",
+        "type": [
+            "Flat",
+            "Western",
+            "Foot Wear"
+        ],
+        "color": "Black",
+        "quant": 1
+    },
+    {
+        "name": "Utility belt bag",
+        "brandName": "NIKE",
+        "price":456,
+        "size": [
+           
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fa/P00653943.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fa/P00653943_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fa/P00653943_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fa/P00653943_d1.jpg"
+        },
+        "itemNo": "P00653943",
+        "type": [
+            "Bag"
+        ],
+        "color": "Black",
+        "quant": 1
+    },
+    {
+        "name": "GG Canvas mini bag",
+        "brandName": "GUCCI",
+        "price": 810,
+        "size": [
+            
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/45/P00631725.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/45/P00631725_d1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/45/P00631725_d2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/45/P00631725_d4.jpg"
+        },
+        "itemNo": "P00631725",
+        "type": [
+            "Bag"
+        ],
+        "color": "Brown",
+        "quant": 1
+    },
+    {
+        "name": "Car M leather tote",
+        "brandName": "GANNI",
+        "price":1290 ,
+        "size": [
+            
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/47/P00631808.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/47/P00631808_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/47/P00631808_d1.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/47/P00631808_d2.jpg"
+        },
+        "itemNo": "P00631808",
+        "type": [
+            "Bag"
+        ],
+        "color": "Black",
+        "quant": 1
+    },
+    {
+        "name": "Lift Scritto Swipe briefcase",
+        "brandName": "ISABEL MARANT",
+        "price": 2150,
+        "size": [
+           
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/70/P00549020.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/70/P00549020_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/70/P00549020_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/70/P00549020_d1.jpg"
+        },
+        "itemNo": "P00549020",
+        "type": [
+            "Bag"
+        ],
+        "color": "Brown",
+        "quant": 1
+    },{
+        "name": "Cotton and linen belt bag",
+        "brandName": "ETRO",
+        "price": 890,
+        "size": [
+           
+        ],
+        "images": {
+            "img1": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/5f/P00648623.jpg",
+            "img2": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/5f/P00648623_b1.jpg",
+            "img3": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/5f/P00648623_b2.jpg",
+            "img4": "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/5f/P00648623_d1.jpg"
+        },
+        "itemNo": "P00648623",
+        "type": [
+            "Bag"
+        ],
+        "color": "White",
+        "quant": 1
+    }
+    
+]
