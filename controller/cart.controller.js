@@ -78,4 +78,14 @@ router.patch("/:productID", async (req, res) => {
         res.send({ message: error.message })
     }
 })
+
+router.delete("/:id", async (req, res) => {
+    try {
+        const cart = await Cart.findByIdAndDelete(req.params.id);
+        res.send("deleted")
+
+    } catch (error) {
+        res.send(error.message)
+    }
+})
 module.exports = router;

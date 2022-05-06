@@ -38,7 +38,7 @@ const login = async (req, res) => {
         const match = user.checkPassword(req.body.password);
         // If password not matched return msg
         if (!match) {
-            res.status(400).send({ message: "Please enter valid details" });
+           return res.status(400).send({ message: "Please enter valid details" });
         }
         // genrating token
         const token = newToken(user);
